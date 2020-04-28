@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/vue.js/static/css/main.3657f8fd.chunk.css",
+    "main.js": "/vue.js/static/js/main.fdd22bb8.chunk.js",
+    "main.js.map": "/vue.js/static/js/main.fdd22bb8.chunk.js.map",
+    "runtime-main.js": "/vue.js/static/js/runtime-main.5d0d6642.js",
+    "runtime-main.js.map": "/vue.js/static/js/runtime-main.5d0d6642.js.map",
+    "static/css/2.ad8fe80d.chunk.css": "/vue.js/static/css/2.ad8fe80d.chunk.css",
+    "static/js/2.88ef7c3e.chunk.js": "/vue.js/static/js/2.88ef7c3e.chunk.js",
+    "static/js/2.88ef7c3e.chunk.js.map": "/vue.js/static/js/2.88ef7c3e.chunk.js.map",
+    "index.html": "/vue.js/index.html",
+    "precache-manifest.875648365450c931480746b7d3a6394a.js": "/vue.js/precache-manifest.875648365450c931480746b7d3a6394a.js",
+    "service-worker.js": "/vue.js/service-worker.js",
+    "static/css/2.ad8fe80d.chunk.css.map": "/vue.js/static/css/2.ad8fe80d.chunk.css.map",
+    "static/css/main.3657f8fd.chunk.css.map": "/vue.js/static/css/main.3657f8fd.chunk.css.map",
+    "static/js/2.88ef7c3e.chunk.js.LICENSE.txt": "/vue.js/static/js/2.88ef7c3e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d0d6642.js",
+    "static/css/2.ad8fe80d.chunk.css",
+    "static/js/2.88ef7c3e.chunk.js",
+    "static/css/main.3657f8fd.chunk.css",
+    "static/js/main.fdd22bb8.chunk.js"
+  ]
+}
