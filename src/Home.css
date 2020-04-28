@@ -1,0 +1,86 @@
+div.wrap{
+
+  width: 1000px;
+  margin: 0 auto;
+}
+a.only{
+  background-color: #369219;
+  color: white;
+}
+
+.list{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    background-color: #e1e1e1;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  hr{
+    color:#e1e1e1 ;
+  }
+.list li{
+      margin-right: 20px;
+      list-style: none;
+    
+       
+    }
+    .list li a{
+      width: 40px;
+      padding: 3px 4px;
+      color: #369219;
+      border-radius: 5px;
+    
+      line-height: 30px;
+    } 
+ .list  a.active{
+  background-color: #369219;
+    color: white;
+  }
+  .listOne{
+    padding: 0;
+    
+   
+  }
+  span.yeah{
+   
+   padding: 1px 2px;
+    text-align: center;
+    font-size: 13px;
+   border-radius: 10px;
+  
+   
+   
+    
+    
+  }
+
+  .listOne li a{
+    color: black;
+   
+  }
+  .listOne li  a:visited{
+    color: #888888;
+  }
+  .listOne li {
+    list-style: none;
+    margin-bottom: 5px;
+  } 
+
+  span.int{
+    color: #9e78c0;
+    font-size: 14px;
+  }
+  span.intone{
+    font-size: 10px;
+    color: #b4b4b4;
+  }
+  p.all{
+    margin-left: 5px;
+    display: inline-block;
+    width:60px;
+    text-align: center;
+  }
+  a.dis{
+    margin-left: 4px;
+  }

@@ -1,0 +1,47 @@
+header{
+    background-color: #1c6132;
+    width: 100%;
+}
+header .wrap{
+    width: 1000px;
+   margin: 0 auto;
+   display: flex;
+   flex-wrap: nowrap;
+   align-items: center;
+    line-height: 40px;
+    justify-content:space-between;
+
+}
+
+header .logo{
+
+    width: 40px;
+}
+.wrap  .vue{
+    color: white;
+    font-weight: bold;
+    margin-right: 20px;
+}
+.wrap input{
+    border: none;
+    background-color: #4f9639;
+    border-radius: 10px;
+    height: 20px;
+    color: white;
+}
+.wrap a{color: white;
+text-decoration: none;}
+.wrap .headimg{
+    width: 30px;
+}
+.wrap  .user{
+ line-height: 40px;
+ 
+}
+
+span.name{
+    color: white;
+}
+span.btn{
+    margin-left: 20px;
+}
